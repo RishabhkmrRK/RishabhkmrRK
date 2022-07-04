@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ---
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" onmouseover="Visual Studio" style="padding-right:10px;"/>](https://code.visualstudio.com "Visual Studio Code"){:target="_blank"}
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" onmouseover="Visual Studio" style="padding-right:10px;"/>](https://code.visualstudio.com "Visual Studio Code")
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
           
