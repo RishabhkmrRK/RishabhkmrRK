@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Data Science and Machine learning**.
-- 🔭 I’m currently working on Deep Learning and Natural Language Process machine learning projects.
+- 🔭 I’m currently working on Deep Learning and Natural Language Processing machine learning projects.
 - ⚡ I focus on making end to end projects which involves solving real life problems.
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -58,7 +58,7 @@
 
 ## <img align="left" alt="internshiplogo" width="26px" src="https://user-images.githubusercontent.com/30430757/178508900-e19b5769-0206-4758-8720-6e4174aebba3.png" style="padding-right:10px;" /> Interships:
 
-- [National Projects Construction Corporation](https://github.com/RishabhkmrRK/Internship_National-Projects-Construction-Corporation-Limited): Involved with managementemnt and planning team responsible for installation of Electrical Power System.
+- [National Projects Construction Corporation](https://github.com/RishabhkmrRK/Internship_National-Projects-Construction-Corporation-Limited): Involved with management and planning team responsible for installation of Electrical Power System.
 
 - [Delhi Metro Rail Corporation](https://github.com/RishabhkmrRK/Internship_Delhi-Metro-Rail-Corporation): Worked with multiple department of organization including **SCADA** (Supervisory Control And Data Acquisition System) for control and monitoring of metro network, **PSI** (Power Supply Installation) for power supply and monitoring of electrical network. 
 
