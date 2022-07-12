@@ -17,7 +17,6 @@
 
 ## Languages I use and familier with:
 
-<br/>
 
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/ "Python") 
 [<img align="left" alt="html" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>](https://www.w3schools.com/tags/att_download.asp "HTML")
@@ -30,7 +29,7 @@
 <br/>
 
 ## Tools I use and familiar with :
-<br/>
+
 
 [<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;"/>](https://jupyter.org/ "Jupyter Notebook")
 [<img align="left" alt="opencv" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="padding-right:10px;"/>](https://opencv.org/ "OpenCV")
@@ -43,14 +42,12 @@
 [<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
 <br/>
 
-[<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
-[<img align="left" alt="visualstudiocode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](https://code.visualstudio.com/ "Visual Studio Code")
+[<img align="left" alt="fusion360" width="18px" src="https://user-images.githubusercontent.com/30430757/178505113-cff6a630-4d5d-4e39-9ab0-f154da9ffa28.png" style="padding-right:10px;" />](https://www.autodesk.com/products/fusion-360/overview "Autodesk Fusion 360")
+[<img align="left" alt="eagle" width="20px" src="https://user-images.githubusercontent.com/30430757/178506425-f7b302e7-ac55-4bb8-a5ba-449d5eec1cec.png" style="padding-right:10px;" />](https://www.autodesk.com/products/eagle/overview "Autodesk Eagle")
 
 <br/>
-<br/>
-<br/>
 
-## <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/30430757/177340516-58cfbaa0-874b-4426-a238-3ebf9f440aeb.svg" style="padding-right:10px;" /> Recent Projects:
+## <img align="left" alt="projectslogo" width="30px" src="https://user-images.githubusercontent.com/30430757/178504585-51d618f4-1a44-4d7c-9bbc-b64501bf6cde.png" style="padding-right:10px;"/>Recent Projects:
 
 - [Actors Image Classification Machine Learning Model using Sklearn Libraries with Aws EC2 model deployment](https://github.com/RishabhkmrRK/Actors-Image-Classification)
 
@@ -59,7 +56,7 @@
 
 <br/>
 
-## <img align="left" alt="github" width="26px" src="https://user-images.githubusercontent.com/30430757/177340516-58cfbaa0-874b-4426-a238-3ebf9f440aeb.svg" style="padding-right:10px;" /> Interships:
+## <img align="left" alt="internshiplogo" width="26px" src="https://user-images.githubusercontent.com/30430757/178508900-e19b5769-0206-4758-8720-6e4174aebba3.png" style="padding-right:10px;" /> Interships:
 
 - [National Projects Construction Corporation](https://github.com/RishabhkmrRK/Internship_National-Projects-Construction-Corporation-Limited): Involved with managementemnt and planning team responsible for installation of Electrical Power System.
 
